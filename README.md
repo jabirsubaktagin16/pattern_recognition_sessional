@@ -1,14 +1,12 @@
 Here I implemented our Pattern Recognition Sessional Assignments. Implemented Algorithms are given below:
 
 
-Designing Minimum Distance to Class Mean Classifier
+1. Designing Minimum Distance to Class Mean Classifier
 
-**Problem Description:** https://git.io/JqT4S
+2. Implementing the Perceptron algorithm for finding the weights of a Linear Discriminant function
 
-**Solution:** https://git.io/JtQj7
+3. Implementing Minimum Error Rate Classifier
 
-Implementing the Perceptron algorithm for finding the weights of a Linear Discriminant function
+4. Implementing K-Nearest Neighbors (KNN)
 
-**Problem Description:** https://git.io/JqT4D
-
-**Solution:** https://git.io/JtQjp
+5. Implementing K-Means Clustering
